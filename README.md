@@ -1,5 +1,6 @@
-![0JsGmaI6_400x400 (1)](https://github.com/user-attachments/assets/a393a36e-4aae-4de9-961e-7773145dbfe5)
+![0JsGmaI6_400x400 (2)](https://github.com/user-attachments/assets/7400d209-9ec6-43ee-a8db-26198d466ff8)
 # About me
+
 
 Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](https://github.com/bugpull/audits) with a strong track record in uncovering vulnerabilities across diverse DApps and DeFi protocols. Known for a meticulous approach and a deep commitment to security.
 
