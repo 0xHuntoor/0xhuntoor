@@ -1,4 +1,3 @@
-![0JsGmaI6_400x400 (2)](https://github.com/user-attachments/assets/7400d209-9ec6-43ee-a8db-26198d466ff8)
 # About me
 
 
