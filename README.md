@@ -12,6 +12,7 @@ Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](http
 # 🏆 Honors and Distinctions 🏆
 
 - Ranked 2nd on [FenixFinance](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) 
+- Ranked 3rd on [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496/leaderboard) 
 - Ranked 5th on [Munchables- LandManager](https://code4rena.com/audits/2024-07-munchables)
 - Ranked 5th on [fLayer](https://audits.sherlock.xyz/contests/468/leaderboard)
 - Ranked 8th on [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)
@@ -26,6 +27,7 @@ Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](http
 | [MagicSea](https://audits.sherlock.xyz/contests/437?filter=questions)                                                    | Jul 2024 | Smart Dex                    | [2 H, 1 M](https://github.com/IlIlHunterlIlI/audits/blob/main/Contests/2024-07-MagicSea.md)  |                                                           -                                                            |                     [📄](https://audits.sherlock.xyz/contests/437/report)                      |
 | [Midas](https://audits.sherlock.xyz/contests/495?filter=questions)                                                       | Aug 2024 | Real World Asset Tokeniztion | [2 M](https://github.com/IlIlHunterlIlI/audits/blob/main/Contests/2024-08-Midas.md)          |                              [9th](https://audits.sherlock.xyz/contests/495/leaderboard)                               |                     [📄](https://audits.sherlock.xyz/contests/495/report)                      |
 | [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier)                                                       | October 2024 | Debt Tracking NFT | [1 L](https://github.com/IlIlHunterlIlI/audits/blob/main/Contests/2024-10-SablierFlow.md)          |                              [8th](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)                               |                     [📄](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=report)                      |
+| [Gamma - Brevis Rewarder](https://codehawks.cyfrin.io/c/2024-10-sablier)                                                       | OCT 2024 | Liquidity Management, Zero Knowledge Proofs | [1 H](https://github.com/IlIlHunterlIlI/audits/blob/main/Contests/2024-10-Gamma.md)          |                              [3rd](https://audits.sherlock.xyz/contests/496/leaderboard)                               |                     [📄](https://audits.sherlock.xyz/contests/496/report)                      |
 
 # BugPull Audit Contests Achievements
 
