@@ -18,7 +18,7 @@ Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](http
 - Ranked 8th on [SablierFlow](https://codehawks.cyfrin.io/c/2024-10-sablier/results?2=&lt=contest&sc=reward&sj=reward&page=2&t=leaderboard)
 - Ranked 9th on [Midas](https://audits.sherlock.xyz/contests/495/leaderboard)
 
-# Solo Audit Contests Achievements
+# Solo Contests Achievements
 
 
 | Contest                                                                                                                  | Date     | Description                  | Findings                                                                                     |                                                          Rank                                                          |                                             Report                                             |
@@ -33,7 +33,7 @@ Hi, Iam Hunter, a skilled smart contract auditor and co-leader of [BUGPULL](http
 
 
 
-# BugPull Audit Contests Achievements
+# BugPull Contests Achievements
 
 | Contest                                                                    | Date      | Description                                               | Findings                                                                                          |                              Rank                              |                         Report                         |
 | :------------------------------------------------------------------------- | --------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------: | :----------------------------------------------------: |
