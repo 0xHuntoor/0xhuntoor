@@ -8,6 +8,7 @@ Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in u
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
 - [**Discord**](https://discord.com/users/715472416675070033)
+- [**Telegram**](http://t.me/IlIlHunterlIlI)
 
 # 🏆 Honors and Distinctions 🏆
 
