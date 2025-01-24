@@ -43,3 +43,9 @@ Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in u
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)          | Sep 2024  | NFT Liquidity, and Bridge Protocol (utilizing uniV4 Hook) | [8 H , 6 M (1 solo)](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md) | [5th](https://audits.sherlock.xyz/contests/468/leaderboard) 🏅 | [📄](https://audits.sherlock.xyz/contests/468/report)  |
 | [OKU](https://audits.sherlock.xyz/contests/641)          | Nov 2024  | Advanced Order Book DEX | [5 H, 2M ](https://github.com/bugpull/audits/blob/main/Contests/2024-12-OKU.md) | [7th](https://audits.sherlock.xyz/contests/641/leaderboard) | [📄](https://audits.sherlock.xyz/contests/641/report)  |
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)      | Dec 2024  | Tokenized Yearn V3 Vaults Integration                     | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)               | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+
+## Bug Bounties
+
+| Project    |Category|Severity| Report |
+|------------|---------|---------|---------|
+|Common Wealth|Staking and on-chain VC |High|Private  |
