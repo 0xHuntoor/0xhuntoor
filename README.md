@@ -1,16 +1,16 @@
-# About me
+## About me
 
 
 Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in uncovering vulnerabilities across diverse DApps and DeFi protocols. Known for a meticulous approach and a deep commitment to security.
 
 
-# Contact Me
+## Contact Me
 
 - [**Twitter**](https://x.com/IlIlHunterlIlI)
 - [**Discord**](https://discord.com/users/715472416675070033)
 - [**Telegram**](http://t.me/IlIlHunterlIlI)
 
-# 🏆 Honors and Distinctions 🏆
+## 🏆 Honors and Distinctions 🏆
 - Ranked 2nd on [FenixFinance](https://app.hats.finance/audit-competitions/fenix-0x9d7765a7ebd5b6322a30797a44a5428531970d3d/leaderboard) 
 - Ranked 3rd on [Gamma - Brevis Rewarder](https://audits.sherlock.xyz/contests/496/leaderboard) 
 - Ranked 4th on [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)
@@ -20,7 +20,7 @@ Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in u
 
 
 
-# Solo Contests Achievements
+## Solo Contests Achievements
 
 
 | Contest                                                                                                                  | Date     | Description                  | Findings                                                                                     |                                                          Rank                                                          |                                             Report                                             |
@@ -34,7 +34,7 @@ Hi, Iam Hunter, a skilled smart contract auditor with a strong track record in u
 
 
 
-# BugPull Contests Achievements
+## BugPull Contests Achievements
 
 | Contest                                                                    | Date      | Description                                               | Findings                                                                                          |                              Rank                              |                         Report                         |
 | :------------------------------------------------------------------------- | --------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------: | :----------------------------------------------------: |
