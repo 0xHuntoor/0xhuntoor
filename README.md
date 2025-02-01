@@ -1,7 +1,7 @@
 ## About me
 
 
-Hi, Iam Hunter, Iam hunting bugs everywhere
+Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
 
 ## Contact Me
