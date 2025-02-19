@@ -6,9 +6,9 @@ Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 
 ## Contact Me
 
-- [**Twitter**](https://x.com/IlIlHunterlIlI)
+- [**Twitter**](https://x.com/0xhuntoor)
 - [**Discord**](https://discord.com/users/715472416675070033)
-- [**Telegram**](http://t.me/IlIlHunterlIlI)
+- [**Telegram**](http://t.me/huntoor)
 
 ## 🏆 Honors and Distinctions 🏆
 
