@@ -21,7 +21,7 @@ Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)                                                    | Dec 2024  | BugPull | Yearn V3 Tokenized Vault Integration                    | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)                       | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
 | [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables)                                              | July 2024 | BugPull | GameFi, Point Farming                                   | [3H, 1L](https://github.com/bugpull/audits/blob/main/Contests/2024-07-munchables.md)                 |                              [5th](https://code4rena.com/audits/2024-07-munchables)<br>🏅                               |                           [📄](https://code4rena.com/reports/2024-07-munchables)                            |
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)                                                        | Sep 2024  | BugPull | Liquidity protocol for NFTs with custom Uniswap V4 hook | [8H , 6M (1 solo)](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md)           |                            [5th](https://audits.sherlock.xyz/contests/468/leaderboard)<br>🏅                            |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
-## Solo Contests Achievements
+## Solo Contests
 
 | Contest                                                                                                                  | Date     | Description                  | Findings                                                                                              |                                                         Rank                                                          |                                                    Report                                                     |
 | :----------------------------------------------------------------------------------------------------------------------- | -------- | :--------------------------- | :---------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -35,7 +35,7 @@ Hi, Iam **Hunter**, _Iam hunting bugs everywhere_
 | [MagicSea](https://audits.sherlock.xyz/contests/437?filter=questions)                                                    | Jul 2024 | Smart Dex                    | [2H, 1M](https://github.com/0xhuntoor/audits/blob/main/Contests/2024-07-MagicSea.md)                  |                                                           -                                                           |                             [📄](https://audits.sherlock.xyz/contests/437/report)                             |
 
 
-## BugPull Contests Achievements
+## BugPull Contests
 
 - **BugPull** is where i collab with [_Mostafa_](https://github.com/rzizah) as a DUO team
 
