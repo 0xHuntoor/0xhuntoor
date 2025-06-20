@@ -30,6 +30,13 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)                                                    | Dec 2024  | [BugPull](https://github.com/bugpull/audits) | Yearn V3 Tokenized Vault Integration                    | [3M](https://github.com/bugpull/audits/blob/main/Contests/2024-12-alchemix.md)                       | [4th](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)<br>🏅 | [📄](https://codehawks.cyfrin.io/c/2024-12-alchemix/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
 | [Munchables - LandManager](https://code4rena.com/audits/2024-07-munchables)                                              | July 2024 | [BugPull](https://github.com/bugpull/audits) | GameFi, Point Farming                                   | [3H, 1L](https://github.com/bugpull/audits/blob/main/Contests/2024-07-munchables.md)                 |                              [5th](https://code4rena.com/audits/2024-07-munchables)<br>🏅                               |                           [📄](https://code4rena.com/reports/2024-07-munchables)                            |
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)                                                        | Sep 2024  | [BugPull](https://github.com/bugpull/audits) | Liquidity protocol for NFTs with custom Uniswap V4 hook | [8H , 6M (1 solo)](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md)           |                            [5th](https://audits.sherlock.xyz/contests/468/leaderboard)<br>🏅                            |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
+
+## Bug Bounties
+
+| Project    |Category|Severity| Report |
+|------------|---------|---------|---------|
+|Common Wealth|Staking and on-chain VC |High|Private  |
+
 ## 🧑🏽‍⚖️ Contests I Judged
 
 | Contest                                                                                    | Data       | Description                                                                 | Platform |
@@ -37,9 +44,3 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 | [ZKP2P V2](https://audits.sherlock.xyz/contests/805)                                       | April 2025 | Escrow contracts integrated with ZK off-chain logic                         | Sherlock |
 | [Gamma Limit Order](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | April 2025 | A limit order protocol based on UniV4 Hook                                  | Cantina  |
 | [Aquarius AMM](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)      | May 2025   | AMM rust protocol on stellar chain implementing Curve stable swap and UniV2 | Cantina  |
-
-## Bug Bounties
-
-| Project    |Category|Severity| Report |
-|------------|---------|---------|---------|
-|Common Wealth|Staking and on-chain VC |High|Private  |
