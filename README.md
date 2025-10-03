@@ -15,8 +15,6 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 **If you want a private Audit, check this [Link](https://github.com/0xHuntoor/audits/blob/main/ask-for-audit.md)** 
 ## Contact Me
 
-- **Twitter**: [@0xHuntoor](https://x.com/0xHuntoor)
-- **Discord**: [@0xHuntoor](https://discord.com/users/715472416675070033)
 - **Telegram**: [@Huntoor](http://t.me/Huntoor)
 
 ## Honors and Distinctions
