@@ -6,9 +6,9 @@ Hi, I'm **Hunter**, _I'm hunting bugs everywhere_
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
 2x🥇, 1x🥈, 1x🥉 and 9x Top 10 finishes
-- [34](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
+- [37](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
 - [41](https://profiles.cyfrin.io/u/0xhuntoor) on  **CodeHawks** leaderboard
-- [63](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
+- [67](https://hackenproof.com/hackers/0xhuntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
 
@@ -41,9 +41,10 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 
 ## Contests I Judged
 
-| Contest                                                                                    | Data       | Description                                                                 | Platform |
-| ------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------------- | -------- |
-| [Succinct Staking](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview) | Jul 2025   | Staking logic of the [succinct network](https://www.succinct.xyz/)          | Cantina  |
-| [Aquarius AMM](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)      | May 2025   | AMM rust protocol on stellar chain implementing Curve stable swap and UniV2 | Cantina  |
-| [ZKP2P V2](https://audits.sherlock.xyz/contests/805)                                       | April 2025 | Escrow contracts integrated with ZK off-chain logic                         | Sherlock |
-| [Gamma Limit Order](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | April 2025 | A limit order protocol based on UniV4 Hook                                  | Cantina  |
+| Contest                                                                                    | Data       | Description                                                                                                              | Platform |
+| ------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [mev-commit](https://cantina.xyz/competitions/217af22c-957e-4c13-bc2a-1d5255e72309)        | Sep 2025   | Primev’s L1 smart contracts for routing builder payments, distributing validator stipends, and managing bidder deposits. | Cantina  |
+| [Succinct Staking](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview) | Jul 2025   | Staking logic of the [succinct network](https://www.succinct.xyz/)                                                       | Cantina  |
+| [Aquarius AMM](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff)      | May 2025   | AMM rust protocol on stellar chain implementing Curve stable swap and UniV2                                              | Cantina  |
+| [ZKP2P V2](https://audits.sherlock.xyz/contests/805)                                       | April 2025 | Escrow contracts integrated with ZK off-chain logic                                                                      | Sherlock |
+| [Gamma Limit Order](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | April 2025 | A limit order protocol based on UniV4 Hook                                                                               | Cantina  |
