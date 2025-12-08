@@ -32,6 +32,14 @@ I have found a live high severity bug draining a contract and other Bugs on **Ha
 | [fLayer](https://audits.sherlock.xyz/contests/468?filter=results)                                                        | Sep 2024  | [BugPull](https://github.com/bugpull/audits) | Liquidity protocol for NFTs with custom Uniswap V4 hook | [8H , 6M (1 solo)](https://github.com/bugpull/audits/blob/main/Contests/2024-08-flayer.md)                                                                                                  |                            [5th](https://audits.sherlock.xyz/contests/468/leaderboard)<br>🏅                            |                            [📄](https://audits.sherlock.xyz/contests/468/report)                            |
 
 - **Browse all of my public contests participation [here](https://audits.sherlock.xyz/watson/Huntoor)**
+
+## Engagements
+
+| Protocol                            | Description             | With                              | Findings       | Report |
+| :---------------------------------- | :---------------------- | :-------------------------------- | :------------- | :----: |
+| [Sofamon](https://www.sofamon.xyz/) | NFTs royalty management | [Pashov](https://www.pashov.com/) | 1 C, 1 M, 10 L |   -    |
+| [Kinetiq](https://kinetiq.xyz/)     | HyperVm liquid staking  | [Pashov](https://www.pashov.com/) | 5 M, 8 L       |   -    |
+
 ## Bug Bounties
 
 | Project    |Category|Severity| Report |
