@@ -4,9 +4,11 @@
 
 I specialize in auditing **Logic heavy protocols**, especially **staking** (native and ERC20) and **DEX integrations** such as balancerV3 or UniswapV4 hook integrators
 
+**Found over 100C/H/M bugs** in total
+
 2x🥇, 2x🥈, 1x🥉 and 9x Top 10 finishes
 - [39](https://cantina.xyz/u/IlIlHunterlIlI) on **cantina** leaderboard
-- [43](https://profiles.cyfrin.io/u/huntoor) on  **CodeHawks** leaderboard
+- [43](https://profiles.cyfrin.io/u/huntoor) on **CodeHawks** leaderboard
 - [67](https://hackenproof.com/hackers/huntoor) on **HackenProof** leaderboard
   
 I have found a live high severity bug draining a contract and other Bugs on **HackenProof**
